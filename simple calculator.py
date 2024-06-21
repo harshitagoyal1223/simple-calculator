@@ -11,6 +11,7 @@ b = int(input("Enter another number on which you want to perform operation:"))
 print("Choose any operation:")
 print("1. Addition")
 print("2. Subtraction")
+print("3. Multplication")
 print("4. Division")
 oper = int(input("Enter operation:"))
 
